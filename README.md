@@ -701,23 +701,7 @@ Final board:
 🤝 It's a draw! 
 ```
 
-## References
 
-1. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
-   - Chapter 5: Adversarial Search and Games
-   - Minimax algorithm (Section 5.2)
-   - Alpha-Beta pruning (Section 5.3)
-
-2.  Knuth, D. E., & Moore, R. W. (1975). An analysis of alpha-beta pruning. *Artificial Intelligence*, 6(4), 293-326.
-   - Theoretical analysis of pruning effectiveness
-   - Best-case and worst-case complexity
-
-3. Pearl, J. (1982). The solution for the branching factor of the alpha-beta pruning algorithm and its optimality. *Communications of the ACM*, 25(8), 559-564.
-   - Optimal move ordering strategies
-
-4. Course lecture notes on adversarial search, game trees, and heuristic evaluation functions. 
-
----
 
 ## Conclusion
 
@@ -730,8 +714,5 @@ This implementation successfully demonstrates:
 - ✅ Comprehensive testing (23/23 tests passing)
 - ✅ Clean, readable, well-documented code
 
-The agent achieves perfect play on standard Tic-Tac-Toe and expert-level play on larger variants, demonstrating mastery of adversarial search algorithms and game-playing AI techniques.
 
-**Author:** Ruslan Hajiyev  
-**Completed:** November 2025  
-**Status:** Ready for submission ✅
+
